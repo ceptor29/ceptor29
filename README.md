@@ -80,7 +80,7 @@ vibes:        cryptographically cursed
 listening_to: lofi & packet captures
 reading:      "Hacking: The Art of Exploitation" (4th time, still hits)
 learning:     eBPF, cloud security, malware analysis
-building:     [REDACTED]   (clearance level: spooky)
+building:     (ask me)
 hunting:      bug bounties that will haunt me
 status:       0xCAFE · awaiting interrupt
 ```
@@ -134,22 +134,13 @@ status:       0xCAFE · awaiting interrupt
   </a>
 </p>
 
-<sub><i>add three more <code>REPO_NAME</code> cards in the same shape when you've got more to show off.</i></sub>
+
 
 ---
 
 ### 🏆 the hall of infamy
 
-```
-┌────────────────────────────────────────────────────────────────┐
-│  🎯  THM RANK              │  [your rank]                      │
-│  🐉  HTB RANK              │  [your rank]                      │
-│  🩸  BUG BOUNTIES          │  [X disclosed · Y in triage]      │
-│  📜  CERTS                 │  [eJPT · Sec+ · OSCP · ...]       │
-│  🏁  CTF TEAM              │  [team name · recent placing]     │
-│  🕳️  CVES                  │  [CVE-XXXX-XXXXX — if applicable] │
-└────────────────────────────────────────────────────────────────┘
-```
+*come back when the receipts arrive.* 🕯️
 
 ---
 
@@ -204,7 +195,7 @@ status:       0xCAFE · awaiting interrupt
   name: generate snake
   on:
     schedule: [{ cron: "0 0 * * *" }]
-    workflow_dismiss:
+    workflow_dispatch:
   jobs:
     generate:
       runs-on: ubuntu-latest
