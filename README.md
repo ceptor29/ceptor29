@@ -12,11 +12,6 @@
 
 # 🕯️ 𝐡𝐚𝐥𝐭. 𝐰𝐡𝐨 𝐠𝐨𝐞𝐬 𝐭𝐡𝐞𝐫𝐞? 🕯️
 
-<!-- dynamic fork count on the profile repo -->
-<img src="https://img.shields.io/badge/dynamic/json?color=A020F0&label=forks&query=$.fork_count&logo=github&style=for-the-badge&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fceptor29%2Fceptor29" alt="forks" />
-
-<img src="https://raw.githubusercontent.com/ceptor29/ceptor29/main/typing.svg" alt="Typing SVG" />
-
 <sub><i>"the quieter you become, the more you can hear."</i></sub>
 
 </div>
@@ -112,28 +107,6 @@ status:       0xCAFE · awaiting interrupt
 
 ---
 
-### 🐉 the fork dragon
-
-<p align="center">
-  <a href="https://github.com/ceptor29?tab=repositories">
-    <img src="https://raw.githubusercontent.com/ceptor29/ceptor29/main/dragon.svg" alt="fork dragon" width="240" />
-  </a>
-</p>
-
-<sub><i>dragon hosted in this repo (<code>dragon.svg</code>). swap the file whenever you want a different one.</i></sub>
-
----
-
-### 🐍 the snake that lives in my contribution graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ceptor29/ceptor29/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
-<sub><i>needs the snake workflow from the bottom of this file, committed to <code>.github/workflows/snake.yml</code> in this repo.</i></sub>
-
----
-
 ### 🦴 featured rituals
 
 <p align="center">
@@ -186,37 +159,10 @@ status:       0xCAFE · awaiting interrupt
    ╚══════════════════════════════════════════════════╝
 ```
 
-**souls collected** *(each one a curious visitor)*:
-<img src="https://komarev.com/ghpvc/?username=ceptor29&color=A020F0&style=for-the-badge&label=SOULS+COLLECTED" alt="profile views" />
+**souls collected** *(each one a curious visitor)*: `0xDEAD`
 
 <sub>🕯️ · *you are the patch you wish to see in the world* · 🕯️</sub>
 
 </div>
 
 ---
-
-<!--
-  ══════════════════════════════════════════════════════════════
-  OPTIONAL · SNAKE WORKFLOW
-  Add this as .github/workflows/snake.yml in your profile repo
-  to enable the 🐍 animation above:
-  ══════════════════════════════════════════════════════════════
-
-  name: generate snake
-  on:
-    schedule: [{ cron: "0 0 * * *" }]
-    workflow_dispatch:
-  jobs:
-    generate:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: Platane/snk@v3
-          with:
-            repository: ceptor29/ceptor29
-        - uses: crazy-max/ghaction-github-pages@v3
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
--->
