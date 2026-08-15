@@ -15,7 +15,7 @@
 <!-- dynamic fork count on the profile repo -->
 <img src="https://img.shields.io/badge/dynamic/json?color=A020F0&label=forks&query=$.fork_count&logo=github&style=for-the-badge&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fceptor29%2Fceptor29" alt="forks" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1500&color=A020F0&background=0A001400&center=true&vCenter=true&multiline=true&repeat=false&width=720&height=120&lines=I+don't+always+test+security...;but+when+I+do%2C+it's+unsanctioned.;%E2%9A%A0%EF%B8%8F+building+things+that+refuse+to+be+pwned+%E2%9A%A0%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1500&color=A020F0&background=0A001400&center=true&vCenter=true&multiline=true&repeat=false&width=720&height=120&lines=I+don't+always+test+security...;but+when+I+do%2C+it's+unsanctioned.;%E2%9A%A0%EF%B8%8F+building+things+that+refuse+to+be+pwned+%E2%9A%A0%EF%B8%8F" alt="Typing SVG" />
 
 <sub><i>"the quieter you become, the more you can hear."</i></sub>
 
@@ -108,11 +108,11 @@ status:       0xCAFE · awaiting interrupt
 
 <p align="center">
   <a href="https://github.com/ceptor29?tab=repositories">
-    <img src="https://raw.githubusercontent.com/anolivetree/anolivetree/master/fork-ribbon-dragon.svg" alt="fork dragon" width="220" />
+    <img src="https://raw.githubusercontent.com/ceptor29/ceptor29/main/dragon.svg" alt="fork dragon" width="240" />
   </a>
 </p>
 
-<sub><i>if the dragon doesn't render, the SVG host moved. swap the src above for a GitHub Pages copy or any dragon SVG you like.</i></sub>
+<sub><i>dragon hosted in this repo (<code>dragon.svg</code>). swap the file whenever you want a different one.</i></sub>
 
 ---
 
@@ -177,7 +177,7 @@ status:       0xCAFE · awaiting interrupt
 ```
 
 **souls collected** *(each one a curious visitor)*:
-<img src="https://komarev.com/ghpvc/?username=ceptor29&color=A020F0&style=for-the-badge&label=SOULS+COLLECTED" alt="profile views" />
+<img src="https://profile-counter.glitch.me/ceptor29.svg?color=A020F0&label=SOULS+COLLECTED&style=for-the-badge" alt="profile views" />
 
 <sub>🕯️ · *you are the patch you wish to see in the world* · 🕯️</sub>
 
