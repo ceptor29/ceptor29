@@ -15,7 +15,7 @@
 <!-- dynamic fork count on the profile repo -->
 <img src="https://img.shields.io/badge/dynamic/json?color=A020F0&label=forks&query=$.fork_count&logo=github&style=for-the-badge&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fceptor29%2Fceptor29" alt="forks" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1500&color=A020F0&background=0A001400&center=true&vCenter=true&multiline=true&repeat=false&width=720&height=120&lines=I+don't+always+test+security...;but+when+I+do%2C+it's+unsanctioned.;%E2%9A%A0%EF%B8%8F+building+things+that+refuse+to+be+pwned+%E2%9A%A0%EF%B8%8F" alt="Typing SVG" />
+<img src="https://raw.githubusercontent.com/ceptor29/ceptor29/main/typing.svg" alt="Typing SVG" />
 
 <sub><i>"the quieter you become, the more you can hear."</i></sub>
 
@@ -90,17 +90,25 @@ status:       0xCAFE · awaiting interrupt
 ### 📊 the numbers don't lie (but i do, sometimes)
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ceptor29&show_icons=true&theme=radical&hide_border=true&bg_color=0A0014&title_color=A020F0&icon_color=E0C3FC&text_color=E0C3FC&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=ceptor29&theme=dark&hide_border=true&background=0A0014&stroke=6B00B3&ring=A020F0&fire=A020F0&currStreakLabel=E0C3FC" alt="Streak Stats" />
+  <img src="https://img.shields.io/badge/Repos-2-A020F0?style=for-the-badge&logo=github&logoColor=E0C3FC" alt="repos" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/ceptor29?style=for-the-badge&logo=github&color=6B00B3&labelColor=1A0033&logoColor=E0C3FC" alt="followers" />
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/ceptor29?style=for-the-badge&logo=github&color=A020F0&labelColor=6B00B3&logoColor=E0C3FC" alt="stars" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceptor29&layout=compact&theme=radical&hide_border=true&bg_color=0A0014&title_color=A020F0&text_color=E0C3FC" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=A020F0" alt="python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=0A0014" alt="js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=E0C3FC" alt="ts" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=E0C3FC" alt="bash" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=A020F0" alt="go" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=A020F0" alt="rust" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=A020F0" alt="docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=0A0014" alt="linux" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ceptor29&theme=radical&no-frame=true&column=7&margin-w=4" alt="Trophies" />
-</p>
+<sub><i>live stats via <code>img.shields.io</code> — updates on every page render, no third-party required.</i></sub>
 
 ---
 
@@ -130,9 +138,11 @@ status:       0xCAFE · awaiting interrupt
 
 <p align="center">
   <a href="https://github.com/ceptor29/compliance-wiki">
-    <img width="60%" src="https://github-readme-stats.vercel.app/api/pin/?username=ceptor29&repo=compliance-wiki&theme=radical&hide_border=true&bg_color=1A0033&title_color=A020F0&icon_color=E0C3FC&text_color=E0C3FC&description_line_count=2" />
+    <img src="https://img.shields.io/badge/compliance--wiki-A020F0?style=for-the-badge&logo=github&logoColor=E0C3FC&label=compliance-wiki" alt="compliance-wiki" />
   </a>
 </p>
+
+<sub><i>swap the badge label for any repo you want to spotlight — uses the shields.io <code>/badge/</code> endpoint, no third-party host needed.</i></sub>
 
 
 
@@ -177,7 +187,7 @@ status:       0xCAFE · awaiting interrupt
 ```
 
 **souls collected** *(each one a curious visitor)*:
-<img src="https://profile-counter.glitch.me/ceptor29.svg?color=A020F0&label=SOULS+COLLECTED&style=for-the-badge" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=ceptor29&color=A020F0&style=for-the-badge&label=SOULS+COLLECTED" alt="profile views" />
 
 <sub>🕯️ · *you are the patch you wish to see in the world* · 🕯️</sub>
 
