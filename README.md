@@ -10,22 +10,18 @@
 
 <div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Command%20Prompt-C%3A%5CUsers%5Cceptor29-0A0A0A?style=for-the-badge&labelColor=00FF41&logo=windowsterminal&logoColor=0A0A0A" alt="Command Prompt" />
-</p>
+```ansi
+[96mC:\Users\ceptor29[0m> [1;95m./whoami --verbose[0m
 
-```text
-C:\Users\ceptor29> ./whoami --verbose
+[1;32muser[0m:   [95mAyog Mohanty[0m
+[1;32mhandle[0m: [95mceptor29[0m
+[1;32mrole[0m:    [95mGRC-focused Information Security Engineer[0m
+[1;32morg[0m:     [95mCockroach Labs[0m
+[1;32mbase[0m:    [95mBengaluru, India[0m
+[1;32medu[0m:      [95mBITS Pilani (WILP)[0m
+[1;32mgroups[0m:  [95minfosec,GRC,compliance[0m
 
-user:   Ayog Mohanty
-handle: ceptor29
-role:    GRC-focused Information Security Engineer
-org:     Cockroach Labs
-base:    Bengaluru, India
-edu:      BITS Pilani (WILP)
-groups:  infosec,GRC,compliance
-
-C:\Users\ceptor29> _
+[96mC:\Users\ceptor29[0m> [1;95m_[0m
 ```
 
 <sub><i>"compliance is a feature, not an afterthought."</i></sub>
