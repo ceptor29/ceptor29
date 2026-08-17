@@ -39,7 +39,7 @@
 
 ### 🏆 the receipts
 
-- **Co-author — [CIS CockroachDB v25.x Benchmark](https://www.cockroachlabs.com/blog/cis-benchmark-cockroachdb-security/)** — officially published by the Center for Internet Security.
+- ✍️ **Co-author — [DPDP Act: India's New Era in Data Protection and Privacy](https://www.cockroachlabs.com/blog/dpdp-act-data-protection-and-privacy/)** — on the Cockroach Labs blog.
 - **[compliance-wiki](https://github.com/ceptor29/compliance-wiki)** — live tracker of **34 frameworks · 1,559 controls · 85 monitored sources**, with an AI-assisted change log.
 - ✍️ **More write-ups** — [my posts on the Cockroach Labs blog](https://www.cockroachlabs.com/author/ayog-mohanty/).
 
