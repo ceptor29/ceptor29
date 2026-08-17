@@ -3,8 +3,8 @@
   ║  GITHUB PROFILE README — Ayog "ceptor29" Mohanty            ║
   ║  Repo: github.com/ceptor29/ceptor29/blob/master/README.md   ║
   ║                                                              ║
-  ║  Palette: #0A0014 bg · #A020F0 violet · #6B00B3 deep purple ║
-  ║           #1A0033 card · #E0C3FC lavender text              ║
+  ║  Palette: #0d1117 bg · #161b22 card · #30363d border       ║
+  ║           #e6edf3 text (GitHub dark mode)                  ║
   ╚══════════════════════════════════════════════════════════════╝
 -->
 
@@ -81,9 +81,9 @@ status:       📋 · risk register open
 ### 📊 the numbers don't lie (but the dashboards might)
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/ceptor29?style=for-the-badge&logo=github&color=6B00B3&labelColor=1A0033&logoColor=E0C3FC" alt="followers" />
+  <img src="https://img.shields.io/github/followers/ceptor29?style=for-the-badge&logo=github&color=30363d&labelColor=0d1117&logoColor=e6edf3" alt="followers" />
   &nbsp;
-  <img src="https://img.shields.io/github/stars/ceptor29?style=for-the-badge&logo=github&color=A020F0&labelColor=6B00B3&logoColor=E0C3FC" alt="stars" />
+  <img src="https://img.shields.io/github/stars/ceptor29?style=for-the-badge&logo=github&color=21262d&labelColor=0d1117&logoColor=e6edf3" alt="stars" />
 </p>
 
 <sub><i>live stats via <code>img.shields.io</code> — updates on every page render, no third-party required.</i></sub>
@@ -103,10 +103,10 @@ status:       📋 · risk register open
 ### 📫 drop a pin
 
 <p align="left">
-  <a href="https://x.com/NoobCeptor"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=A020F0" /></a>
+  <a href="https://x.com/NoobCeptor"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/ayog-mohanty/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:mohantyayog@gmail.com"><img src="https://img.shields.io/badge/Email-A020F0?style=for-the-badge&logo=gmail&logoColor=E0C3FC" /></a>
-  <a href="https://github.com/ceptor29"><img src="https://img.shields.io/badge/GitHub-6B00B3?style=for-the-badge&logo=github&logoColor=E0C3FC" /></a>
+  <a href="mailto:mohantyayog@gmail.com"><img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=e6edf3" /></a>
+  <a href="https://github.com/ceptor29"><img src="https://img.shields.io/badge/GitHub-30363d?style=for-the-badge&logo=github&logoColor=e6edf3" /></a>
 </p>
 
 ---
