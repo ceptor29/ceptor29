@@ -10,11 +10,11 @@
 
 <div align="center">
 
-# 🛡️ halt. who are you? 🛡️
+# ./whoami
 
 **Ayog Mohanty** · `ceptor29` · GRC-focused Information Security Engineer
 
-<sub><i>"compliance is a feature, not an afterthought."</i></sub>
+<sub><i>uid=231302234(ceptor29) · groups=infosec,GRC,compliance</i></sub>
 
 </div>
 
@@ -33,6 +33,7 @@
 
 > i build the tools that make compliance boring — in a good way.
 > risk you can measure, controls you can prove, evidence you can point to.
+> compliance is a feature, not an afterthought.
 
 ---
 
